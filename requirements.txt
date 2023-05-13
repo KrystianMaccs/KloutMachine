@@ -11,6 +11,7 @@ django-countries==7.2.1
 django-phonenumber-field==5.2.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0 
+drf-yasg==1.21.5
 Pillow==8.3.2 
 Faker==8.9.1 
 flake8==3.9.2 
